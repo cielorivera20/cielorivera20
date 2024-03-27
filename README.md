@@ -10,3 +10,6 @@ soy de peru del departamento de Piura
 
 estoy muy feliz de que visiten mi pagina, me pueden contactar en mis redes sociales
 
+### Los lenguajes
+son la forma de comunicarnos con los demas.
+
